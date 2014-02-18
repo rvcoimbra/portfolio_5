@@ -1,4 +1,6 @@
-portfolio_5
+Resumo:
 ===========
 
-wordpress
+Gestão de conteúdos com o Wordpress
+
+Criação de um template personalizado
